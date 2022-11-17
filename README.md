@@ -94,6 +94,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-主要面向Spring编程，鉴定为纯纯的底层社畜码农。
 
-![Strelizia02's github stats](https://github-readme-stats.vercel.app/api?username=Strelizia02&show_icons=true)
+主要面向Spring编程，鉴定为纯纯的底层社畜码农。
